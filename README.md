@@ -111,7 +111,7 @@ Sayan Chowdhury
 <!-- HACKER QUOTE ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines="There+is+no+security+without+curiosity";"Hack+to+learn%2C+not+to+destroy";"Security+is+an+attitude"" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=There+is+no+security+without+curiosity;Hack+to+learn%2C+not+to+destroy;Security+is+an+attitude" />
 </p>
 
 <!-- CYBER DIVIDER -->
@@ -141,12 +141,15 @@ Sayan Chowdhury
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heysayanallgood&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heysayanallgood&theme=radical" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysayanallgood&layout=compact&theme=radical" />
+  <img
+    alt="heysayanallgood's GitHub Stats"
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/heysayanallgood?cardType=github&theme=github-dark&fontFamily=Poppins&preferLogin=false"
+    height="145"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=heysayanallgood&layout=compact&theme=radical"
+    height="200"
+  />
 </p>
 
 ---
@@ -163,12 +166,6 @@ Sayan Chowdhury
   <a href="https://www.linkedin.com/in/sayan-chowdhury-ab8b63308/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/heysayanallgood"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/heysayanallgood/heysayanallgood/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
