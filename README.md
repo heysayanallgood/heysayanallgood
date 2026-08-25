@@ -1,3 +1,16 @@
+<!-- ===== CINEMATIC CYBER HERO ===== -->
+
+<p align="center">
+  <img
+    src="./Sayan_Cyber_Hero_Animated.gif"
+    width="100%"
+    alt="Sayan Chowdhury — Cyber Hero"
+  />
+</p>
+
+<br>
+
+<!-- ===== END HERO ===== -->
 <!-- ====== FULL CYBERPUNK GITHUB PROFILE README ====== -->
 
 <p align="center">
